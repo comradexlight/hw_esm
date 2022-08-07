@@ -1,0 +1,26 @@
+{
+  "name": "hw_esm",
+  "version": "1.0.0",
+  "description": "esm homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comradexlight/hw_esm.git"
+  },
+  "keywords": [
+    "esm"
+  ],
+  "author": "cxl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/comradexlight/hw_esm/issues"
+  },
+  "homepage": "https://github.com/comradexlight/hw_esm#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
